@@ -1,0 +1,7 @@
+polygon
+pandas
+matplotlib
+seaborn
+vaderSentiment
+scipy
+python-dotenv
